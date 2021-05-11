@@ -19,5 +19,5 @@ You can find my personal email id in my bio.
 
 ⚡ Fun fact: I was never a geek but now-a-days I don't mind to breathe/live AI (something that was very hard for me to admit) :wink: :blush:
 
-Last but not the least, I am always open and to share / discuss or even debate on interesting topics in AI so please get in touch if you think you have something that interests me. Also, I would be glad to answer any queries or questions on my listed work so please do not hesitate to ask.
+Last but not the least, I am always open to share / discuss and more importantly debate on interesting topics in AI so please get in touch if you think you have something that interests me. Also, I would be glad to answer any queries or questions on my listed work so please do not hesitate to ask.
 

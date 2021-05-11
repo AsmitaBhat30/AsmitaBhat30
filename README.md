@@ -1,8 +1,5 @@
 ### Hi there 👋, this is Asmita :handshake:
 
-<!--
-**AsmitaBhat30/AsmitaBhat30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I am a Master's student at Technical university of Kaiserslautern specializing in Artificial Intelligence.
 I am glad to be a part of this awesome platform where I can easily follow interesting contributions from our AI community and also to share my own contributions :)
 

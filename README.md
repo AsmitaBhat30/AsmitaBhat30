@@ -11,6 +11,7 @@ Owing to my interests, my most recent contribution has been :-
 
 🔭 I’m currently working on
 - Hybrid generative models including GANs and VAEs for 2D and 3D shape synthesis and representation learning.
+- Layout-to-Image synthesis with disentanglement for multiple objects in an image with minimal supervision.
 
 👯 I also have a sweet spot for Explainable AI and Machine bias and therefore would love to collaborate on some interesting ideas/topics.
 

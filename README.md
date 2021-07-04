@@ -18,5 +18,5 @@ Owing to my interests, my most recent contributions have been :-
 📫 How to reach me:
 You can find my personal email id in my bio. 
 
-Last but not the least, I am always open to share / discuss and more importantly debate on interesting topics in AI so please get in touch if you think you have something that interests me. Also, I would be glad to answer any queries or questions on my listed work so please do not hesitate to ask.
+Last but not the least, I am always open to share / discuss and more importantly debate on interesting topics in AI so please get in touch if you think you have something that interests me. Also, I would be glad to answer any queries or questions on my listed work so do not hesitate to ask.
 
